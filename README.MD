@@ -6,11 +6,11 @@
 
 ![Crypto](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto.png)
 ![Crypto-CryptoDetails](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto-CryptoDetails.png)
-![Trending](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending.png)
-![Saved](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Saved.png)
-![Trending-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending-Mobile.png)
-![Crypto-CryptoDetails-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails-Mobile.png)
-![Crypto-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-Mobile.png)
+![Trending](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Trending.png)
+![Saved](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Saved.png)
+![Trending-Mobile](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Trending-Mobile.png)
+![Crypto-CryptoDetails-Mobile](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto-CryptoDetails-Mobile.png)
+![Crypto-Mobile](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto-Mobile.png)
 
 ### Resources Used in This Project
 
