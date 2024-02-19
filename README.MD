@@ -1,6 +1,6 @@
 # ⭐Build Feature Rich Crypto Screener App with Tailwind CSS
 <h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
+<p><a href="https://www.buymeacoffee.com/Saksham21s" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
 
 ### Images of The Crypto Screener Website:
 
