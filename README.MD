@@ -4,8 +4,8 @@
 
 ### Images of The Crypto Screener Website:
 
-![Crypto](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto.png)
-![Crypto-CryptoDetails](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails.png)
+![Crypto](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto.png)
+![Crypto-CryptoDetails](https://github.com/Saksham21s/DigiCurr/blob/main/Website-Images/Crypto-CryptoDetails.png)
 ![Trending](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending.png)
 ![Saved](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Saved.png)
 ![Trending-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending-Mobile.png)
